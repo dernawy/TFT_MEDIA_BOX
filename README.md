@@ -8,4 +8,4 @@ TFT MEDIA BOX project consists of three parts
 1- Esp32 server board:
 It is my design and is based on ESP32 microcontroller with 16 Mb of memory
 
-![Esp32 server]([image-url](https://github.com/dernawy/TFT_MEDIA_BOX/raw/espUpdate/images/IMG_20260519_005621.jpg))
+![Esp32 server]([image-url](https://github.com/dernawy/TFT_MEDIA_BOX/raw/espUpdate/images/IMG_20260519_005621.jpg)
