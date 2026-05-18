@@ -1,0 +1,11 @@
+{
+    "SETUP_OK": false, 
+    "COUNTRY": "EMPTY", 
+    "CITY": "EMPTY", 
+    "TIMEZONE": "EMPTY", 
+    "TIMEZONE_STR": "EMPTY", 
+    "TIMEZONE_DL": 0, 
+    "TIMEZONE_OS": 0, 
+    "ROUTER_SSID": "AKRAM_WIFI", 
+    "ROUTER_PASS": "derna1972"
+}
